@@ -17,3 +17,17 @@ Used this [Data Preparation Notebook](https://github.com/lbomine/Education-Inequ
 - Renamed the columns to follow best practices of being lowercase, snake_case, and understandable.
 - Created derived variables that will be useful in the analysis.
 - Exported the [clean data set](https://github.com/lbomine/Education-Inequality/blob/main/clean_education_inequality.csv).
+
+## Data Analysis
+Used this [Analyis Notebook]() to analyze the cleaned data set and produce all necessary results for the final conclusion. Additional questions were proposed to assist our understanding and interpretation of the data.
+
+#### Additional Step Proposal
+1. What is the relationship between the requirement for students to take the ACT/SAT and the average scores on these tests across different states?
+    - Since the data does not include all the states, does this affect the relationship between ACT performance and socioeconomic factors? Can the inclusion of ACT/SAT requirements help counteract this bias?
+    - For states not included in this data set but that still require the exams, how do their socioeconomic factors compare? Analyzing this relationship may help us to build a better model. Perhaps the decision of imposing a graduation requirement is highly correlated with median income.
+
+## Author
+Leiana Beatriz Omine - Student at Seattle University
+
+## License
+Materials in this repository may be reused but not modified.
