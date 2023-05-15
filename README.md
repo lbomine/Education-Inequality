@@ -23,8 +23,8 @@ Used this [Analyis Notebook]() to analyze the cleaned data set and produce all n
 
 #### Additional Step Proposal
 1. What is the relationship between the requirement for students to take the ACT/SAT and the average scores on these tests across different states?
-    - Since the data does not include all the states, does this affect the relationship between ACT performance and socioeconomic factors? Can the inclusion of ACT/SAT requirements help counteract this bias?
-    - For states not included in this data set but that still require the exams, how do their socioeconomic factors compare? Analyzing this relationship may help us to build a better model. Perhaps the decision of imposing a graduation requirement is highly correlated with median income.
+2. Since the data does not include all the states, does this affect the relationship between ACT performance and socioeconomic factors? Can the inclusion of ACT/SAT requirements help counteract this bias?
+3. For states not included in this data set but that still require the exams, how do their socioeconomic factors compare? Analyzing this relationship may help us to build a better model. Perhaps the decision of imposing a graduation requirement is highly correlated with median income.
 
 ## Author
 Leiana Beatriz Omine - Student at Seattle University
