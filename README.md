@@ -35,6 +35,8 @@ Used this [Analyis Notebook](https://github.com/lbomine/Education-Inequality/blo
 1. What is the relationship between the requirement for students to take the ACT/SAT and the average scores on these tests across different states?
 2. Since the data does not include all the states, does this affect the relationship between ACT performance and socioeconomic factors? Can the inclusion of ACT/SAT requirements help counteract this bias?
 
+A more in depth visualization of the results can be viewed in the [Communicating Results](https://github.com/lbomine/Education-Inequality/blob/8e8e2cac8fbdd19cdb1b79d3d4fa002800183d0e/Communicating%20Results%20Education%20-%20Leiana%20Omine.pdf) report.
+
 ## Author
 Leiana Beatriz Omine - Student at Seattle University
 
