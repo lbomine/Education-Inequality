@@ -1,6 +1,9 @@
 # Education Inequality • Data 3320, Spring 2023
 Addresses the inequality of educational opportunity in U.S. high schools. We are focusing on average student performance on the ACT or SAT exams that students take as part of the college application process and if socioeconomic factors may be used to predict school performance.
 
+## Requirements
+To complete this project, Google Colaboratory is used as the main software. This is a web-based IDE for Python (programming language). Python libraries are also utilized to help clean and plot the data. GitHub is used to store the files of this project and make it easily accessible for reference when working with the data.
+
 ## Data
 This project utilizes two data sets [`EdGap_data.xlsx`](https://github.com/lbomine/Education-Inequality/blob/main/EdGap_data.xlsx) and [`ccd_sch_029_1617_w_1a_11212017.csv`](https://www.dropbox.com/s/lkl5nvcdmwyoban/ccd_sch_029_1617_w_1a_11212017.csv?dl=0). 
 
